@@ -1,0 +1,16 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                   TRK02-02E1
+# contigs (>= 0 bp)        99        
+# contigs (>= 1000 bp)     78        
+Total length (>= 0 bp)     3807735   
+Total length (>= 1000 bp)  3791774   
+# contigs                  99        
+Largest contig             323302    
+Total length               3807735   
+GC (%)                     27.11     
+N50                        164184    
+N75                        65407     
+L50                        9         
+L75                        18        
+# N's per 100 kbp          0.00      

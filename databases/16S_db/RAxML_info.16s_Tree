@@ -1,0 +1,175 @@
+
+
+IMPORTANT WARNING: Sequences Cbar_IP2227_NR_029229 and Cbar_ATCC27638_X68174 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbar_JCM1382_LC007104 and Cbar_JCM1409_AB567726 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbar_IBCA08-0076_JX847739 and Cbar_IBCA03-0045_JX847738 are exactly identical
+
+
+IMPORTANT WARNING: Sequences GROUP2_cbot_K15_JN617062 and GROUP2_cbot_E538_JN617079 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC15_LN828937 and Cbut_C13_LN828941 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC15_LN828937 and Cbut_C14_LN828940 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC15_LN828937 and Cbut_NEC14_LN828936 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC15_LN828937 and Cbut_NEC13_LN828935 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC15_LN828937 and Cbut_NEC10_LN828932 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_VPI and Cbut_VPI3266_NR_042144 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_DSM_2477_LN828942 and Cbut_NEC4_LN828931 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC9_LN828939 and Cbut_NEC12_LN828934 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC9_LN828939 and Cbut_NEC11_LN828933 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NEC9_LN828939 and Cbut_NEC3_LN828929 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cbut_NCIMB8082_X68178 and Cbut_DSM2478_X68177 are exactly identical
+
+IMPORTANT WARNING
+Found 15 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file NAME.phy.reduced
+
+
+This is RAxML version 7.3.5 released by Alexandros Stamatakis on September 16 2012.
+
+With greatly appreciated code contributions by:
+Andre Aberer (HITS)
+Simon Berger (HITS)
+Nick Pattengale (Sandia)
+Wayne Pfeiffer (SDSC)
+Akifumi S. Tanabe (Univ. Tsukuba)
+
+
+Alignment has 410 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 8.74%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 10 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 410
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -m GTRGAMMA -s NAME.phy -n 16s_Tree -p 12345 -x 12345 -N 10 -f a 
+
+
+Testing which likelihood implementation to use
+Standard Implementation full tree traversal time: 0.016963
+Subtree Equality Vectors for gap columns full tree traversal time: 0.016848
+... using standard implementation
+
+
+Time for BS model parameter optimization 0.802632
+Bootstrap[0]: Time 4.101262 seconds, bootstrap likelihood -4480.091036, best rearrangement setting 13
+Bootstrap[1]: Time 3.782416 seconds, bootstrap likelihood -4968.909091, best rearrangement setting 13
+Bootstrap[2]: Time 3.678433 seconds, bootstrap likelihood -4943.332773, best rearrangement setting 12
+Bootstrap[3]: Time 4.068312 seconds, bootstrap likelihood -4900.038396, best rearrangement setting 15
+Bootstrap[4]: Time 2.879621 seconds, bootstrap likelihood -4799.777929, best rearrangement setting 10
+Bootstrap[5]: Time 3.790825 seconds, bootstrap likelihood -4781.756853, best rearrangement setting 10
+Bootstrap[6]: Time 2.887868 seconds, bootstrap likelihood -4793.841313, best rearrangement setting 6
+Bootstrap[7]: Time 3.379859 seconds, bootstrap likelihood -4854.457942, best rearrangement setting 14
+Bootstrap[8]: Time 2.722374 seconds, bootstrap likelihood -4781.346649, best rearrangement setting 5
+Bootstrap[9]: Time 3.119541 seconds, bootstrap likelihood -4750.948781, best rearrangement setting 7
+
+
+Overall Time for 10 Rapid Bootstraps 34.435136 seconds
+Average Time per Rapid Bootstrap 3.443514 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 20.631106 seconds
+
+Slow ML Search 0 Likelihood: -4816.505440
+Slow ML Search 1 Likelihood: -4817.067925
+Slow ML optimization finished
+
+Slow ML search Time: 20.086620 seconds
+Thorough ML search Time: 10.130599 seconds
+
+Final ML Optimization Likelihood: -4816.495461
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.238412
+Tree-Length: 0.364557
+rate A <-> C: 0.642713
+rate A <-> G: 2.009354
+rate A <-> T: 1.268963
+rate C <-> G: 0.549048
+rate C <-> T: 4.184105
+rate G <-> T: 1.000000
+
+freq pi(A): 0.264412
+freq pi(C): 0.217755
+freq pi(G): 0.305105
+freq pi(T): 0.212727
+
+
+ML search took 50.849103 secs or 0.014125 hours
+
+Combined Bootstrap and ML search took 85.284285 secs or 0.023690 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bestTree.16s_Tree
+
+
+
+Found 1 tree in File /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bestTree.16s_Tree
+
+Program execution info written to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_info.16s_Tree
+All 10 bootstrapped trees written to: /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bootstrap.16s_Tree
+
+Best-scoring ML tree written to: /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bestTree.16s_Tree
+
+Best-scoring ML tree with support values written to: /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bipartitions.16s_Tree
+
+Best-scoring ML tree with support values as branch labels written to: /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/RAxML_bipartitionsBranchLabels.16s_Tree
+
+Overall execution time for full ML analysis: 85.285648 secs or 0.023690 hours or 0.000987 days
+

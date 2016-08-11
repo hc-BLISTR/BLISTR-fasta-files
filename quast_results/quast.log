@@ -1,0 +1,42 @@
+/home/wolf/Desktop/BioInfo/quast-2.3/quast.py /home/wolf/Desktop/OWEN/BLISTR/fasta_files/TRK02-02E1.fasta -o /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results --no-plots
+
+Version 2.3, build 28.02.2014 16:10
+
+System information:
+  OS: Linux-3.13.0-92-generic-x86_64-with-Ubuntu-14.04-trusty (linux_64)
+  Python version: 2.7.6
+  CPUs number: 6
+
+Started: 2016-08-08 11:22:38
+
+Logging to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/quast.log
+
+NOTICE: Output directory already exists. Existing Nucmer alignments can be used.
+
+NOTICE: Maximum number of threads is set to 6 (use --threads option to set it manually)
+
+Contigs:
+  /home/wolf/Desktop/OWEN/BLISTR/fasta_files/TRK02-02E1.fasta ==> TRK02-02E1
+
+2016-08-08 11:22:38
+Running Basic statistics processor...
+  Contig files: 
+    TRK02-02E1
+  Calculating N50 and L50...
+    TRK02-02E1, N50 = 164184, L50 = 9, Total length = 3807735, GC % = 27.11, # N's per 100 kbp =  0.00
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-08-08 11:22:38
+RESULTS:
+  Text versions of total report are saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/report.html
+  Log saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/quast.log
+
+Finished: 2016-08-08 11:22:38
+Elapsed time: 0:00:00.436769
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

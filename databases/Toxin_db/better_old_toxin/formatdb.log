@@ -1,0 +1,9 @@
+
+========================[ Jul 22, 2016 12:58 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "BoNT_sequences.fasta"
+WARNING: [000.000] Sequence number 40 (lcl|40_BoNT_sequences.fasta), 7 illegal characters were removed:
+2 Es, 2 Fs, 1 I, 2 Os
+
+Formatted 54 sequences in volume 0
+SUCCESS: formatted database BoNT_sequences.fasta
