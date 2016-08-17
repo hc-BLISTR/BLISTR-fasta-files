@@ -1,0 +1,222 @@
+
+========================[ Aug 16, 2016  1:54 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "/home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/orfX_HA_db/orfX_HA_NTNH_proteinDB.faa"
+WARNING: [000.000] Sequence number 1 (lcl|1_/home/wolf/Desktop/OWEN/BLISTR/f), 190 illegal characters were removed:
+33 Es, 22 Fs, 43 Is, 51 Ls, 21 Ps, 20 Qs
+
+WARNING: [000.000] Sequence number 2 (lcl|2_/home/wolf/Desktop/OWEN/BLISTR/f), 189 illegal characters were removed:
+34 Es, 24 Fs, 41 Is, 50 Ls, 21 Ps, 19 Qs
+
+WARNING: [000.000] Sequence number 3 (lcl|3_/home/wolf/Desktop/OWEN/BLISTR/f), 182 illegal characters were removed:
+34 Es, 24 Fs, 38 Is, 48 Ls, 21 Ps, 17 Qs
+
+WARNING: [000.000] Sequence number 4 (lcl|4_/home/wolf/Desktop/OWEN/BLISTR/f), 193 illegal characters were removed:
+33 Es, 22 Fs, 45 Is, 51 Ls, 21 Ps, 21 Qs
+
+WARNING: [000.000] Sequence number 5 (lcl|5_/home/wolf/Desktop/OWEN/BLISTR/f), 195 illegal characters were removed:
+32 Es, 22 Fs, 48 Is, 51 Ls, 21 Ps, 21 Qs
+
+WARNING: [000.000] Sequence number 6 (lcl|6_/home/wolf/Desktop/OWEN/BLISTR/f), 257 illegal characters were removed:
+40 Es, 37 Fs, 66 Is, 67 Ls, 20 Ps, 27 Qs
+
+WARNING: [000.000] Sequence number 7 (lcl|7_/home/wolf/Desktop/OWEN/BLISTR/f), 276 illegal characters were removed:
+43 Es, 35 Fs, 74 Is, 66 Ls, 27 Ps, 31 Qs
+
+WARNING: [000.000] Sequence number 8 (lcl|8_/home/wolf/Desktop/OWEN/BLISTR/f), 267 illegal characters were removed:
+48 Es, 34 Fs, 66 Is, 67 Ls, 24 Ps, 28 Qs
+
+WARNING: [000.000] Sequence number 9 (lcl|9_/home/wolf/Desktop/OWEN/BLISTR/f), 63 illegal characters were removed:
+9 Es, 8 Fs, 17 Is, 23 Ls, 2 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 10 (lcl|10_/home/wolf/Desktop/OWEN/BLISTR/f), 62 illegal characters were removed:
+9 Es, 8 Fs, 16 Is, 22 Ls, 3 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 11 (lcl|11_/home/wolf/Desktop/OWEN/BLISTR/f), 62 illegal characters were removed:
+9 Es, 7 Fs, 17 Is, 22 Ls, 3 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 12 (lcl|12_/home/wolf/Desktop/OWEN/BLISTR/f), 58 illegal characters were removed:
+10 Es, 7 Fs, 15 Is, 21 Ls, 1 P, 4 Qs
+
+WARNING: [000.000] Sequence number 13 (lcl|13_/home/wolf/Desktop/OWEN/BLISTR/f), 58 illegal characters were removed:
+10 Es, 7 Fs, 15 Is, 21 Ls, 1 P, 4 Qs
+
+WARNING: [000.000] Sequence number 14 (lcl|14_/home/wolf/Desktop/OWEN/BLISTR/f), 63 illegal characters were removed:
+12 Es, 10 Fs, 14 Is, 20 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 15 (lcl|15_/home/wolf/Desktop/OWEN/BLISTR/f), 63 illegal characters were removed:
+12 Es, 10 Fs, 14 Is, 20 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 16 (lcl|16_/home/wolf/Desktop/OWEN/BLISTR/f), 69 illegal characters were removed:
+10 Es, 10 Fs, 24 Is, 18 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 17 (lcl|17_/home/wolf/Desktop/OWEN/BLISTR/f), 71 illegal characters were removed:
+12 Es, 9 Fs, 24 Is, 19 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 18 (lcl|18_/home/wolf/Desktop/OWEN/BLISTR/f), 78 illegal characters were removed:
+11 Es, 11 Fs, 30 Is, 20 Ls, 2 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 19 (lcl|19_/home/wolf/Desktop/OWEN/BLISTR/f), 74 illegal characters were removed:
+9 Es, 11 Fs, 28 Is, 20 Ls, 2 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 20 (lcl|20_/home/wolf/Desktop/OWEN/BLISTR/f), 70 illegal characters were removed:
+17 Es, 11 Fs, 21 Is, 18 Ls, 1 P, 2 Qs
+
+WARNING: [000.000] Sequence number 21 (lcl|21_/home/wolf/Desktop/OWEN/BLISTR/f), 71 illegal characters were removed:
+11 Es, 9 Fs, 24 Is, 20 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 22 (lcl|22_/home/wolf/Desktop/OWEN/BLISTR/f), 149 illegal characters were removed:
+24 Es, 26 Fs, 39 Is, 41 Ls, 9 Ps, 10 Qs
+
+WARNING: [000.000] Sequence number 23 (lcl|23_/home/wolf/Desktop/OWEN/BLISTR/f), 146 illegal characters were removed:
+21 Es, 26 Fs, 40 Is, 40 Ls, 8 Ps, 11 Qs
+
+WARNING: [000.000] Sequence number 24 (lcl|24_/home/wolf/Desktop/OWEN/BLISTR/f), 141 illegal characters were removed:
+21 Es, 26 Fs, 39 Is, 39 Ls, 10 Ps, 6 Qs
+
+WARNING: [000.000] Sequence number 25 (lcl|25_/home/wolf/Desktop/OWEN/BLISTR/f), 147 illegal characters were removed:
+24 Es, 27 Fs, 46 Is, 37 Ls, 9 Ps, 4 Qs
+
+WARNING: [000.000] Sequence number 26 (lcl|26_/home/wolf/Desktop/OWEN/BLISTR/f), 182 illegal characters were removed:
+34 Es, 24 Fs, 37 Is, 49 Ls, 21 Ps, 17 Qs
+
+WARNING: [000.000] Sequence number 27 (lcl|27_/home/wolf/Desktop/OWEN/BLISTR/f), 148 illegal characters were removed:
+22 Es, 29 Fs, 40 Is, 38 Ls, 8 Ps, 11 Qs
+
+WARNING: [000.000] Sequence number 28 (lcl|28_/home/wolf/Desktop/OWEN/BLISTR/f), 142 illegal characters were removed:
+22 Es, 26 Fs, 39 Is, 39 Ls, 10 Ps, 6 Qs
+
+WARNING: [000.000] Sequence number 29 (lcl|29_/home/wolf/Desktop/OWEN/BLISTR/f), 449 illegal characters were removed:
+76 Es, 68 Fs, 127 Is, 107 Ls, 36 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 30 (lcl|30_/home/wolf/Desktop/OWEN/BLISTR/f), 452 illegal characters were removed:
+76 Es, 67 Fs, 107 Ls, 36 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 31 (lcl|31_/home/wolf/Desktop/OWEN/BLISTR/f), 427 illegal characters were removed:
+72 Es, 62 Fs, 116 Is, 109 Ls, 34 Ps, 34 Qs
+
+WARNING: [000.000] Sequence number 32 (lcl|32_/home/wolf/Desktop/OWEN/BLISTR/f), 432 illegal characters were removed:
+73 Es, 60 Fs, 122 Is, 108 Ls, 34 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 33 (lcl|33_/home/wolf/Desktop/OWEN/BLISTR/f), 438 illegal characters were removed:
+73 Es, 55 Fs, 127 Is, 113 Ls, 36 Ps, 34 Qs
+
+WARNING: [000.000] Sequence number 34 (lcl|34_/home/wolf/Desktop/OWEN/BLISTR/f), 450 illegal characters were removed:
+67 Es, 63 Fs, 111 Ls, 33 Ps, 38 Qs
+
+WARNING: [000.000] Sequence number 35 (lcl|35_/home/wolf/Desktop/OWEN/BLISTR/f), 447 illegal characters were removed:
+68 Es, 62 Fs, 111 Ls, 33 Ps, 37 Qs
+
+WARNING: [000.000] Sequence number 36 (lcl|36_/home/wolf/Desktop/OWEN/BLISTR/f), 445 illegal characters were removed:
+71 Es, 69 Fs, 127 Is, 104 Ls, 37 Ps, 37 Qs
+
+WARNING: [000.000] Sequence number 37 (lcl|37_/home/wolf/Desktop/OWEN/BLISTR/f), 449 illegal characters were removed:
+67 Es, 63 Fs, 111 Ls, 33 Ps, 38 Qs
+
+WARNING: [000.000] Sequence number 38 (lcl|38_/home/wolf/Desktop/OWEN/BLISTR/f), 440 illegal characters were removed:
+74 Es, 69 Fs, 119 Is, 105 Ls, 38 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 39 (lcl|39_/home/wolf/Desktop/OWEN/BLISTR/f), 440 illegal characters were removed:
+73 Es, 63 Fs, 125 Is, 108 Ls, 36 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 40 (lcl|40_/home/wolf/Desktop/OWEN/BLISTR/f), 452 illegal characters were removed:
+77 Es, 69 Fs, 107 Ls, 36 Ps, 35 Qs
+
+WARNING: [000.000] Sequence number 41 (lcl|41_/home/wolf/Desktop/OWEN/BLISTR/f), 85 illegal characters were removed:
+6 Es, 11 Fs, 23 Is, 24 Ls, 5 Ps, 16 Qs
+
+WARNING: [000.000] Sequence number 42 (lcl|42_/home/wolf/Desktop/OWEN/BLISTR/f), 88 illegal characters were removed:
+5 Es, 11 Fs, 26 Is, 24 Ls, 6 Ps, 16 Qs
+
+WARNING: [000.000] Sequence number 43 (lcl|43_/home/wolf/Desktop/OWEN/BLISTR/f), 78 illegal characters were removed:
+6 Es, 11 Fs, 21 Is, 21 Ls, 3 Ps, 16 Qs
+
+WARNING: [000.000] Sequence number 44 (lcl|44_/home/wolf/Desktop/OWEN/BLISTR/f), 87 illegal characters were removed:
+6 Es, 10 Fs, 24 Is, 26 Ls, 5 Ps, 16 Qs
+
+WARNING: [000.000] Sequence number 45 (lcl|45_/home/wolf/Desktop/OWEN/BLISTR/f), 79 illegal characters were removed:
+5 Es, 13 Fs, 16 Is, 21 Ls, 9 Ps, 15 Qs
+
+WARNING: [000.000] Sequence number 46 (lcl|46_/home/wolf/Desktop/OWEN/BLISTR/f), 227 illegal characters were removed:
+38 Es, 24 Fs, 70 Is, 48 Ls, 23 Ps, 24 Qs
+
+WARNING: [000.000] Sequence number 47 (lcl|47_/home/wolf/Desktop/OWEN/BLISTR/f), 227 illegal characters were removed:
+37 Es, 25 Fs, 69 Is, 47 Ls, 24 Ps, 25 Qs
+
+WARNING: [000.000] Sequence number 48 (lcl|48_/home/wolf/Desktop/OWEN/BLISTR/f), 228 illegal characters were removed:
+37 Es, 25 Fs, 69 Is, 47 Ls, 24 Ps, 26 Qs
+
+WARNING: [000.000] Sequence number 49 (lcl|49_/home/wolf/Desktop/OWEN/BLISTR/f), 227 illegal characters were removed:
+37 Es, 25 Fs, 69 Is, 47 Ls, 24 Ps, 25 Qs
+
+WARNING: [000.000] Sequence number 50 (lcl|50_/home/wolf/Desktop/OWEN/BLISTR/f), 229 illegal characters were removed:
+37 Es, 25 Fs, 68 Is, 48 Ls, 24 Ps, 27 Qs
+
+WARNING: [000.000] Sequence number 51 (lcl|51_/home/wolf/Desktop/OWEN/BLISTR/f), 220 illegal characters were removed:
+35 Es, 21 Fs, 65 Is, 50 Ls, 27 Ps, 22 Qs
+
+WARNING: [000.000] Sequence number 52 (lcl|52_/home/wolf/Desktop/OWEN/BLISTR/f), 224 illegal characters were removed:
+36 Es, 28 Fs, 66 Is, 44 Ls, 25 Ps, 25 Qs
+
+WARNING: [000.000] Sequence number 53 (lcl|53_/home/wolf/Desktop/OWEN/BLISTR/f), 227 illegal characters were removed:
+37 Es, 23 Fs, 69 Is, 48 Ls, 26 Ps, 24 Qs
+
+WARNING: [000.000] Sequence number 54 (lcl|54_/home/wolf/Desktop/OWEN/BLISTR/f), 227 illegal characters were removed:
+37 Es, 25 Fs, 68 Is, 47 Ls, 25 Ps, 25 Qs
+
+WARNING: [000.000] Sequence number 55 (lcl|55_/home/wolf/Desktop/OWEN/BLISTR/f), 189 illegal characters were removed:
+32 Es, 20 Fs, 55 Is, 42 Ls, 19 Ps, 21 Qs
+
+WARNING: [000.000] Sequence number 56 (lcl|56_/home/wolf/Desktop/OWEN/BLISTR/f), 52 illegal characters were removed:
+7 Es, 8 Fs, 11 Is, 17 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 57 (lcl|57_/home/wolf/Desktop/OWEN/BLISTR/f), 53 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 58 (lcl|58_/home/wolf/Desktop/OWEN/BLISTR/f), 49 illegal characters were removed:
+4 Es, 7 Fs, 14 Is, 16 Ls, 5 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 59 (lcl|59_/home/wolf/Desktop/OWEN/BLISTR/f), 53 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 60 (lcl|60_/home/wolf/Desktop/OWEN/BLISTR/f), 52 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 2 Qs
+
+WARNING: [000.000] Sequence number 61 (lcl|61_/home/wolf/Desktop/OWEN/BLISTR/f), 60 illegal characters were removed:
+9 Es, 7 Fs, 16 Is, 15 Ls, 5 Ps, 8 Qs
+
+WARNING: [000.000] Sequence number 62 (lcl|62_/home/wolf/Desktop/OWEN/BLISTR/f), 53 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 63 (lcl|63_/home/wolf/Desktop/OWEN/BLISTR/f), 49 illegal characters were removed:
+4 Es, 7 Fs, 14 Is, 17 Ls, 4 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 64 (lcl|64_/home/wolf/Desktop/OWEN/BLISTR/f), 53 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 65 (lcl|65_/home/wolf/Desktop/OWEN/BLISTR/f), 52 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 5 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 66 (lcl|66_/home/wolf/Desktop/OWEN/BLISTR/f), 53 illegal characters were removed:
+8 Es, 9 Fs, 11 Is, 16 Ls, 6 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 67 (lcl|67_/home/wolf/Desktop/OWEN/BLISTR/f), 66 illegal characters were removed:
+11 Es, 8 Fs, 22 Is, 19 Ls, 1 P, 5 Qs
+
+WARNING: [000.000] Sequence number 68 (lcl|68_/home/wolf/Desktop/OWEN/BLISTR/f), 71 illegal characters were removed:
+11 Es, 9 Fs, 24 Is, 20 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 69 (lcl|69_/home/wolf/Desktop/OWEN/BLISTR/f), 71 illegal characters were removed:
+11 Es, 9 Fs, 24 Is, 20 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 70 (lcl|70_/home/wolf/Desktop/OWEN/BLISTR/f), 70 illegal characters were removed:
+9 Es, 11 Fs, 24 Is, 21 Ls, 2 Ps, 3 Qs
+
+WARNING: [000.000] Sequence number 71 (lcl|71_/home/wolf/Desktop/OWEN/BLISTR/f), 72 illegal characters were removed:
+11 Es, 9 Fs, 24 Is, 21 Ls, 2 Ps, 5 Qs
+
+WARNING: [000.000] Sequence number 72 (lcl|72_/home/wolf/Desktop/OWEN/BLISTR/f), 72 illegal characters were removed:
+11 Es, 9 Fs, 24 Is, 21 Ls, 2 Ps, 5 Qs
+
+Formatted 72 sequences in volume 0
+SUCCESS: formatted database /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/orfX_HA_db/orfX_HA_NTNH_proteinDB.faa

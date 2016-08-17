@@ -1,2 +1,2 @@
 Assembly	# contigs (>= 0 bp)	# contigs (>= 1000 bp)	Total length (>= 0 bp)	Total length (>= 1000 bp)	# contigs	Largest contig	Total length	GC (%)	N50	N75	L50	L75	# N's per 100 kbp
-TRK02-02E1	99	78	3807735	3791774	99	323302	3807735	27.11	164184	65407	9	18	0.00
+temp	71	67	3959495	3956629	71	457987	3959495	27.93	142985	69810	8	18	0.00
