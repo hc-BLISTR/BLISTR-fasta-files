@@ -1,5 +1,5 @@
 LOCUS       1,12LNR10-CD,ParisUni,2012,Clinical,P>23842 bp   DNA linear
-28-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -31,7 +31,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MTNTKIQLPSDMTTEEYNILMEICKDIPCKSSKDKKDIKILHNT
                      INQIYIDSVINECWN"
      CDS             851..1381

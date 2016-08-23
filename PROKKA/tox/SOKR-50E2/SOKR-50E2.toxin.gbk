@@ -1,5 +1,5 @@
 LOCUS       38,SOKR-50E2,phaC,2002,Clinical,Terre>18625 bp   DNA linear
-29-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -64,7 +64,7 @@ FEATURES             Location/Qualifiers
                      /inference="similar to AA sequence:UniProtKB:Q00496"
                      /codon_start=1
                      /transl_table=11
-                     /product="Botulinum neurotoxin type E precursor"
+                     /product="Botulinum neurotoxin type E precursor2"
                      /translation="MPKINSFNYNDPVNDRTILYIKPGGCQEFYKSFNIMKNIWIIPE
                      RNVIGTTPQDFHPPTSLKNGDSSYYDPNYLQSDEEKDRFLKIVTKIFNRINNNLSGGI
                      LLEELSKANPYLGNDNTPDNQFHIGDASAVEIKFSNGSQHILLPNVIIMGAEPDLFET
@@ -117,7 +117,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MGKAGRKENCNISDNDMLVALERYTREFPNEKINIKKLADFSGI
                      ERHYWYSRKGLREKIEEINSISYEKYDIISDGDRKKIKFPNVDEVVDNNFRNKKRLKF
                      ILNSFFLTYQDFYESSCEAYKLKKDINILKDKIIKYEDEIQKLKNERDKFRELSNYNE
@@ -183,7 +183,7 @@ FEATURES             Location/Qualifiers
                      /inference="similar to AA sequence:UniProtKB:P0AAZ4"
                      /codon_start=1
                      /transl_table=11
-                     /product="Replication-associated recombination protein A"
+                     /product="Replication-associated recombination protein A2"
                      /translation="MSPLADLMRPSKIEDFVGQRHILGKNTPLYNLIKSKKICNCIFY
                      GPPGTGKTTLANIMAKYVDKKFYKLNATTASVKDIQNITSELDNLLNYAGVVLYIDEL
                      C"

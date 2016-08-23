@@ -1,5 +1,5 @@
 LOCUS       14,KF-Meyer-126,NAU,1921,Clinical,spi>23890 bp   DNA linear
-28-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -18,7 +18,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MGTRLKELSLMYKNNTLNKDDKKNIEYEAKSLLENMSFTIKNTK
                      FNRKNLFNGEKLNIQGSTYNTDIKLMDFKVSKGDTIFIGNNKSSNESHTIKVSDNEID
                      TILKKYNLEKADKIVLYELEMVEEHNIKTVFTSKYGYKNNANIDIVNVSNNANKMFSI
@@ -177,7 +177,7 @@ FEATURES             Location/Qualifiers
                      /inference="protein motif:CLUSTERS:PHA2517"
                      /codon_start=1
                      /transl_table=11
-                     /product="putative transposase OrfB"
+                     /product="putative transposase OrfB2"
                      /translation="MLKKEIQQIFVENKERYGSIRIAKVLNNRGVHISRKRVSRLMEE
                      LKLYPKGIRYRYKRYNQKSNAIERPNLLNQMFRTDKNNKIWVGDITYIPNKKGSLYLA
                      VFLDIYSRKVVGWSMSKKIKDTLVIDAFTQAYGKEHPSEGLIVHTDQGSQFTDGIFRV

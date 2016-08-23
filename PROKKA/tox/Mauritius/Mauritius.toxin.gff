@@ -1,26 +1,26 @@
 ##gff-version 3
-##sequence-region 2,Mauritiu,NAU,None,Clinical,fish 1 23890
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	533	2785	.	-	0	ID=PROKKA_00001;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF06597.5;locus_tag=PROKKA_00001;product=Clostridium P-47 protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	2799	3227	.	-	0	ID=PROKKA_00002;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00002;product=hypothetical protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	3847	4008	.	+	0	ID=PROKKA_00003;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00003;product=hypothetical protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	4470	5024	.	-	0	ID=PROKKA_00004;inference=ab initio prediction:Prodigal:2.6,protein motif:CLUSTERS:PRK06759;locus_tag=PROKKA_00004;product=RNA polymerase factor sigma-70
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	5212	6462	.	+	0	ID=PROKKA_00005;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF06597.5;locus_tag=PROKKA_00005;product=Clostridium P-47 protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	6478	9957	.	+	0	ID=PROKKA_00006;eC_number=3.4.24.68;gene=tetX;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P04958;locus_tag=PROKKA_00006;product=Tetanus toxin precursor
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	10001	13891	.	+	0	ID=PROKKA_00007;eC_number=3.4.24.69;gene=botA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45894;locus_tag=PROKKA_00007;product=Botulinum neurotoxin type A precursor
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	14531	15643	.	+	0	ID=PROKKA_00008;eC_number=3.2.1.17;gene=lyc;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P34020;locus_tag=PROKKA_00008;product=Autolytic lysozyme
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	15744	15839	.	+	0	ID=PROKKA_00009;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00009;product=hypothetical protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	16630	17091	.	+	0	ID=PROKKA_00010;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF05014.9;locus_tag=PROKKA_00010;product=Nucleoside 2-deoxyribosyltransferase
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	17081	18055	.	+	0	ID=PROKKA_00011;eC_number=2.1.1.45;gene=thyA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q834R3;locus_tag=PROKKA_00011;product=Thymidylate synthase
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	18037	18825	.	+	0	ID=PROKKA_00012;inference=ab initio prediction:Prodigal:2.6,protein motif:CLUSTERS:PRK00216;locus_tag=PROKKA_00012;product=ubiquinone/menaquinone biosynthesis methyltransferase
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	18847	20085	.	+	0	ID=PROKKA_00013;eC_number=2.5.1.2;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45741;locus_tag=PROKKA_00013;product=Thiaminase-1 precursor
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	20163	20990	.	+	0	ID=PROKKA_00014;eC_number=2.7.1.49;gene=thiD;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P76422;locus_tag=PROKKA_00014;product=Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	21168	21401	.	+	0	ID=PROKKA_00015;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00015;product=hypothetical protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	21825	22289	.	-	0	ID=PROKKA_00016;inference=ab initio prediction:Prodigal:2.6,protein motif:Cdd:COG2426;locus_tag=PROKKA_00016;product=putative membrane protein
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	22684	22989	.	+	0	ID=PROKKA_00017;eC_number=3.6.3.-;gene=lptB;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45073;locus_tag=PROKKA_00017;product=Lipopolysaccharide export system ATP-binding protein LptB
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	23013	23471	.	+	0	ID=PROKKA_00018;eC_number=3.6.3.-;gene=drrA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P32010;locus_tag=PROKKA_00018;product=Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
-2,Mauritiu,NAU,None,Clinical,fish	Prodigal:2.6	CDS	23542	23766	.	-	0	ID=PROKKA_00019;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00019;product=hypothetical protein
+##sequence-region 2,Mauritius,NAU,None,Clinical,fish 1 23890
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	533	2785	.	-	0	ID=PROKKA_00001;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF06597.5;locus_tag=PROKKA_00001;product=Clostridium P-47 protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	2799	3227	.	-	0	ID=PROKKA_00002;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00002;product=hypothetical protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	3847	4008	.	+	0	ID=PROKKA_00003;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00003;product=hypothetical protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	4470	5024	.	-	0	ID=PROKKA_00004;inference=ab initio prediction:Prodigal:2.6,protein motif:CLUSTERS:PRK06759;locus_tag=PROKKA_00004;product=RNA polymerase factor sigma-70
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	5212	6462	.	+	0	ID=PROKKA_00005;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF06597.5;locus_tag=PROKKA_00005;product=Clostridium P-47 protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	6478	9957	.	+	0	ID=PROKKA_00006;eC_number=3.4.24.68;gene=tetX;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P04958;locus_tag=PROKKA_00006;product=Tetanus toxin precursor
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	10001	13891	.	+	0	ID=PROKKA_00007;eC_number=3.4.24.69;gene=botA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q45894;locus_tag=PROKKA_00007;product=Botulinum neurotoxin type A precursor
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	14531	15643	.	+	0	ID=PROKKA_00008;eC_number=3.2.1.17;gene=lyc;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P34020;locus_tag=PROKKA_00008;product=Autolytic lysozyme
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	15744	15839	.	+	0	ID=PROKKA_00009;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00009;product=hypothetical protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	16630	17091	.	+	0	ID=PROKKA_00010;inference=ab initio prediction:Prodigal:2.6,protein motif:Pfam:PF05014.9;locus_tag=PROKKA_00010;product=Nucleoside 2-deoxyribosyltransferase
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	17081	18055	.	+	0	ID=PROKKA_00011;eC_number=2.1.1.45;gene=thyA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:Q834R3;locus_tag=PROKKA_00011;product=Thymidylate synthase
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	18037	18825	.	+	0	ID=PROKKA_00012;inference=ab initio prediction:Prodigal:2.6,protein motif:CLUSTERS:PRK00216;locus_tag=PROKKA_00012;product=ubiquinone/menaquinone biosynthesis methyltransferase
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	18847	20085	.	+	0	ID=PROKKA_00013;eC_number=2.5.1.2;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45741;locus_tag=PROKKA_00013;product=Thiaminase-1 precursor
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	20163	20990	.	+	0	ID=PROKKA_00014;eC_number=2.7.1.49;gene=thiD;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P76422;locus_tag=PROKKA_00014;product=Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	21168	21401	.	+	0	ID=PROKKA_00015;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00015;product=hypothetical protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	21825	22289	.	-	0	ID=PROKKA_00016;inference=ab initio prediction:Prodigal:2.6,protein motif:Cdd:COG2426;locus_tag=PROKKA_00016;product=putative membrane protein
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	22684	22989	.	+	0	ID=PROKKA_00017;eC_number=3.6.3.-;gene=lptB;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P45073;locus_tag=PROKKA_00017;product=Lipopolysaccharide export system ATP-binding protein LptB
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	23013	23471	.	+	0	ID=PROKKA_00018;eC_number=3.6.3.-;gene=drrA;inference=ab initio prediction:Prodigal:2.6,similar to AA sequence:UniProtKB:P32010;locus_tag=PROKKA_00018;product=Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+2,Mauritius,NAU,None,Clinical,fish	Prodigal:2.6	CDS	23542	23766	.	-	0	ID=PROKKA_00019;inference=ab initio prediction:Prodigal:2.6;locus_tag=PROKKA_00019;product=hypothetical protein
 ##FASTA
->2,Mauritiu,NAU,None,Clinical,fish
+>2,Mauritius,NAU,None,Clinical,fish
 CTATGAAAATAATTCATAATAAACTGATCATCTTCAGTCATTAATAAACTTCTAACATCT
 TCGTTAAAATAAAATCCTTTAACATCTTCGCTTGTTGGAATAATTATAATAGCTGGATCT
 TCTGCATTATTTGATTTTGTTCTTATTTTTAAATCTACTAATTCTTCATTTTTATTTTTA

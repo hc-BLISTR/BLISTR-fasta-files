@@ -1,5 +1,5 @@
 LOCUS       13,KAPB3,None,None,None,None,None,Non>20328 bp   DNA linear
-08-AUG-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -31,7 +31,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MFSKAFGFIFKAIISFVVLIVSIKFLWVSILIFIDRVVNIFNII
                      G"
      CDS             complement(1338..2759)

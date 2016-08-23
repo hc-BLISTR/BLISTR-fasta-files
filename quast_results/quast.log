@@ -7,7 +7,7 @@ System information:
   Python version: 2.7.6
   CPUs number: 6
 
-Started: 2016-08-16 11:05:30
+Started: 2016-08-22 12:17:12
 
 Logging to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/quast.log
 
@@ -18,25 +18,25 @@ NOTICE: Maximum number of threads is set to 6 (use --threads option to set it ma
 Contigs:
   /home/wolf/Desktop/OWEN/BLISTR/Database_Inputs/temp.fasta ==> temp
 
-2016-08-16 11:05:31
+2016-08-22 12:17:13
 Running Basic statistics processor...
   Contig files: 
     temp
   Calculating N50 and L50...
-    temp, N50 = 142985, L50 = 8, Total length = 3959495, GC % = 27.93, # N's per 100 kbp =  0.00
+    temp, N50 = 946263, L50 = 2, Total length = 4083414, GC % = 27.92, # N's per 100 kbp =  0.00
 Done.
 
 NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
 
-2016-08-16 11:05:31
+2016-08-22 12:17:13
 RESULTS:
   Text versions of total report are saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/report.txt, report.tsv, and report.tex
   Text versions of transposed total report are saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
   HTML version (interactive tables and plots) saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/report.html
   Log saved to /home/wolf/Desktop/OWEN/BLISTR/fasta_files/quast_results/quast.log
 
-Finished: 2016-08-16 11:05:31
-Elapsed time: 0:00:00.430231
+Finished: 2016-08-22 12:17:13
+Elapsed time: 0:00:00.565502
 NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
 
 Thank you for using QUAST!

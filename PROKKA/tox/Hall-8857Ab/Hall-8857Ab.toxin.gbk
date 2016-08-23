@@ -1,5 +1,5 @@
 LOCUS       23,Hall-8857Ab.A(B).GroupI,NAU,1935,C>14555 bp   DNA linear
-28-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -20,7 +20,7 @@ FEATURES             Location/Qualifiers
                      /note="Nontoxic nonhaemagglutinin C-terminal"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MSNYFKVLNNSYIRDSSEERLEYNKTYQLYNYVFSENPIYEIKQ
                      NNNIYLTINNTNNLNLQVSKFKLLSINPNKQYVQKLDEVIISVLDNMEKYIDISEDNR
                      LQLIDNKNNAKKMIISNDIFISNCLIISYNGKYICLSMKDENHNWMICNNDMSKYLYL

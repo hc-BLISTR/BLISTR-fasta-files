@@ -1,5 +1,5 @@
 LOCUS       9,An436,NAU,None,Clinical,infant23593 bp   DNA linear
-29-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -20,7 +20,7 @@ FEATURES             Location/Qualifiers
                      /note="Resolvase, N terminal domain"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MKSKEVLELLQITRPTLTKYVREGIIKTTTLPNGRYDYDKDSVY
                      KLFNKGVDRKTYIYARVSTNKQKADLENQINMLKQFCFSNGYCISKVFSDVASGISFE
                      KRKEFFNMLDDIVSGKVERVVITYKDRLSRVGFELFFHLFKKYNCEIVVMSEIGSKKL

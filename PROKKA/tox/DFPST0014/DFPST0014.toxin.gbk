@@ -1,5 +1,5 @@
 LOCUS       7,DFPST0014,CFSAN,1967,Clinical,marine23593 bp   DNA linear
-29-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -31,7 +31,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MFSKAFGFIFKAIISFVVLIVSIKFLWVSILIFIDRVVNIFNII
                      G"
      CDS             complement(1336..2757)

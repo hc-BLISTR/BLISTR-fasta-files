@@ -1,5 +1,5 @@
 LOCUS       206,Miyagi2006-01,NIID,None,Clinical,>4496 bp   DNA linear
-29-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -20,7 +20,7 @@ FEATURES             Location/Qualifiers
                      /note="Nontoxic nonhaemagglutinin C-terminal"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MIISNDIFISNCLIISYNGKYICLSMKDENHNWMICNNDMSKYL
                      YLWSFK"
      CDS             323..4213

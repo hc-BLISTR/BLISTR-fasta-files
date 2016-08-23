@@ -1,5 +1,5 @@
->Feature 1,AOSX00000000,Three
->Feature 10,AOSX00000000,Three
+>Feature 1,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 10,Dwight,None,None,None,None,None,None,None,None,None
 663	1214	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	protein motif:Pfam:PF11611.2
@@ -1516,23 +1516,23 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_00279
 			product	hypothetical protein
->Feature 11,AOSX00000000,Three
+>Feature 11,Dwight,None,None,None,None,None,None,None,None,None
 432	193	CDS
 			gene	spoVAD_1
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:UniProtKB:P40869
 			locus_tag	PROKKA_00280
 			product	Stage V sporulation protein AD
->Feature 12,AOSX00000000,Three
+>Feature 12,Dwight,None,None,None,None,None,None,None,None,None
 64	3306	CDS
 			gene	grsB_1
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:UniProtKB:P0C064
 			locus_tag	PROKKA_00281
 			product	Gramicidin S synthase II
->Feature 13,AOSX00000000,Three
->Feature 14,AOSX00000000,Three
->Feature 15,AOSX00000000,Three
+>Feature 13,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 14,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 15,Dwight,None,None,None,None,None,None,None,None,None
 596	1318	CDS
 			gene	ttcA_1
 			inference	ab initio prediction:Prodigal:2.6
@@ -12510,7 +12510,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02224
 			product	hypothetical protein
->Feature 16,AOSX00000000,Three
+>Feature 16,Dwight,None,None,None,None,None,None,None,None,None
 23	331	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02225
@@ -12519,14 +12519,14 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02226
 			product	hypothetical protein
->Feature 17,AOSX00000000,Three
+>Feature 17,Dwight,None,None,None,None,None,None,None,None,None
 10	402	CDS
 			gene	treR_2
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:UniProtKB:P39796
 			locus_tag	PROKKA_02227
 			product	Trehalose operon transcriptional repressor
->Feature 18,AOSX00000000,Three
+>Feature 18,Dwight,None,None,None,None,None,None,None,None,None
 897	421	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02228
@@ -13856,7 +13856,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02520
 			product	hypothetical protein
->Feature 19,AOSX00000000,Three
+>Feature 19,Dwight,None,None,None,None,None,None,None,None,None
 2917	392	CDS
 			EC_number	5.99.1.3
 			gene	gyrA_2
@@ -14763,7 +14763,7 @@
 			inference	similar to AA sequence:UniProtKB:Q97RU8
 			locus_tag	PROKKA_02677
 			product	UDP-N-acetylmuramoylalanine--D-glutamate ligase
->Feature 2,AOSX00000000,Three
+>Feature 2,Dwight,None,None,None,None,None,None,None,None,None
 351	462	rRNA
 			locus_tag	PROKKA_02678
 			product	5S ribosomal RNA
@@ -14951,7 +14951,7 @@
 			inference	similar to AA sequence:UniProtKB:P96579
 			locus_tag	PROKKA_02712
 			product	Putative ribosomal N-acetyltransferase YdaF
->Feature 20,AOSX00000000,Three
+>Feature 20,Dwight,None,None,None,None,None,None,None,None,None
 157	82	tRNA
 			inference	COORDINATES:profile:Aragorn:1.2
 			locus_tag	PROKKA_02713
@@ -14972,8 +14972,8 @@
 			inference	COORDINATES:profile:Aragorn:1.2
 			locus_tag	PROKKA_02717
 			product	tRNA-Leu(taa)
->Feature 21,AOSX00000000,Three
->Feature 22,AOSX00000000,Three
+>Feature 21,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 22,Dwight,None,None,None,None,None,None,None,None,None
 299	144	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02718
@@ -14982,7 +14982,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02719
 			product	hypothetical protein
->Feature 23,AOSX00000000,Three
+>Feature 23,Dwight,None,None,None,None,None,None,None,None,None
 27	102	tRNA
 			inference	COORDINATES:profile:Aragorn:1.2
 			locus_tag	PROKKA_02720
@@ -14999,7 +14999,7 @@
 			inference	COORDINATES:profile:Aragorn:1.2
 			locus_tag	PROKKA_02723
 			product	tRNA-Val(tac)
->Feature 24,AOSX00000000,Three
+>Feature 24,Dwight,None,None,None,None,None,None,None,None,None
 177	515	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	protein motif:CLUSTERS:PRK13627
@@ -15009,7 +15009,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_02725
 			product	hypothetical protein
->Feature 25,AOSX00000000,Three
+>Feature 25,Dwight,None,None,None,None,None,None,None,None,None
 127	238	rRNA
 			locus_tag	PROKKA_02726
 			product	5S ribosomal RNA
@@ -19875,12 +19875,12 @@
 			inference	similar to AA sequence:UniProtKB:Q45493
 			locus_tag	PROKKA_03596
 			product	Ribonuclease J 1
->Feature 26,AOSX00000000,Three
+>Feature 26,Dwight,None,None,None,None,None,None,None,None,None
 251	48	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03597
 			product	hypothetical protein
->Feature 27,AOSX00000000,Three
+>Feature 27,Dwight,None,None,None,None,None,None,None,None,None
 376	1221	CDS
 			EC_number	2.7.7.65
 			gene	adrA_1
@@ -19983,7 +19983,7 @@
 			inference	protein motif:Pfam:PF02687.15
 			locus_tag	PROKKA_03615
 			product	FtsX-like permease family protein
->Feature 28,AOSX00000000,Three
+>Feature 28,Dwight,None,None,None,None,None,None,None,None,None
 250	1143	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:UniProtKB:P67370
@@ -20061,9 +20061,9 @@
 			inference	protein motif:Pfam:PF04020.7
 			locus_tag	PROKKA_03632
 			product	Membrane protein of unknown function
->Feature 29,AOSX00000000,Three
->Feature 3,AOSX00000000,Three
->Feature 30,AOSX00000000,Three
+>Feature 29,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 3,Dwight,None,None,None,None,None,None,None,None,None
+>Feature 30,Dwight,None,None,None,None,None,None,None,None,None
 438	620	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03633
@@ -20095,7 +20095,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03639
 			product	hypothetical protein
->Feature 31,AOSX00000000,Three
+>Feature 31,Dwight,None,None,None,None,None,None,None,None,None
 3417	2173	CDS
 			EC_number	2.3.1.-
 			gene	ppsE
@@ -20103,14 +20103,14 @@
 			inference	similar to AA sequence:UniProtKB:O31827
 			locus_tag	PROKKA_03640
 			product	Plipastatin synthase subunit E
->Feature 32,AOSX00000000,Three
+>Feature 32,Dwight,None,None,None,None,None,None,None,None,None
 42	311	CDS
 			gene	srfAA
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:UniProtKB:P27206
 			locus_tag	PROKKA_03641
 			product	Surfactin synthase subunit 1
->Feature 33,AOSX00000000,Three
+>Feature 33,Dwight,None,None,None,None,None,None,None,None,None
 800	1258	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03642
@@ -20123,7 +20123,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03644
 			product	hypothetical protein
->Feature 34,AOSX00000000,Three
+>Feature 34,Dwight,None,None,None,None,None,None,None,None,None
 230	341	rRNA
 			locus_tag	PROKKA_03645
 			product	5S ribosomal RNA
@@ -20138,7 +20138,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03647
 			product	hypothetical protein
->Feature 35,AOSX00000000,Three
+>Feature 35,Dwight,None,None,None,None,None,None,None,None,None
 1830	1549	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03648
@@ -20152,7 +20152,7 @@
 			note	aligned only 76 percent of the 5S ribosomal RNA
 			product	5S ribosomal RNA (partial)
 			score	1.9e-09
->Feature 36,AOSX00000000,Three
+>Feature 36,Dwight,None,None,None,None,None,None,None,None,None
 78	189	rRNA
 			locus_tag	PROKKA_03651
 			product	5S ribosomal RNA
@@ -20166,7 +20166,7 @@
 			locus_tag	PROKKA_03653
 			product	16S ribosomal RNA
 			score	0
->Feature 37,AOSX00000000,Three
+>Feature 37,Dwight,None,None,None,None,None,None,None,None,None
 1377	634	CDS
 			EC_number	5.2.1.8
 			gene	cbf2
@@ -20178,7 +20178,7 @@
 			locus_tag	PROKKA_03655
 			product	5S ribosomal RNA
 			score	2e-12
->Feature 4,AOSX00000000,Three
+>Feature 4,Dwight,None,None,None,None,None,None,None,None,None
 180	2525	CDS
 			gene	grsB_2
 			inference	ab initio prediction:Prodigal:2.6
@@ -20789,7 +20789,7 @@
 			inference	similar to AA sequence:UniProtKB:P60932
 			locus_tag	PROKKA_03762
 			product	Undecaprenyl-diphosphatase
->Feature 5,AOSX00000000,Three
+>Feature 5,Dwight,None,None,None,None,None,None,None,None,None
 386	75	CDS
 			EC_number	2.7.11.1
 			gene	spoIIAB_2
@@ -20797,7 +20797,7 @@
 			inference	similar to AA sequence:UniProtKB:O32727
 			locus_tag	PROKKA_03763
 			product	Anti-sigma F factor
->Feature 6,AOSX00000000,Three
+>Feature 6,Dwight,None,None,None,None,None,None,None,None,None
 489	103	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03764
@@ -21600,13 +21600,13 @@
 			inference	similar to AA sequence:UniProtKB:P15378
 			locus_tag	PROKKA_03905
 			product	Late competence protein ComC
->Feature 7,AOSX00000000,Three
+>Feature 7,Dwight,None,None,None,None,None,None,None,None,None
 565	287	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	protein motif:Cdd:COG4974
 			locus_tag	PROKKA_03906
 			product	Site-specific recombinase XerD
->Feature 8,AOSX00000000,Three
+>Feature 8,Dwight,None,None,None,None,None,None,None,None,None
 585	1292	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	protein motif:CLUSTERS:PRK00236
@@ -21991,7 +21991,7 @@
 			inference	similar to AA sequence:UniProtKB:P34020
 			locus_tag	PROKKA_03991
 			product	Autolytic lysozyme
->Feature 9,AOSX00000000,Three
+>Feature 9,Dwight,None,None,None,None,None,None,None,None,None
 722	66	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	PROKKA_03992

@@ -1,5 +1,5 @@
 LOCUS       11,AM1195,NAU,1987,Clinical,infant23593 bp   DNA linear
-29-JUL-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -18,7 +18,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MSHVQHLTVIVTGWNKKLLNQAKEKAIELFTENMVTNTAKSLIN
                      QYESFMVCSSGSKGGWEEDTEHKQKIEKYVKYLDSKAFSEKKHDNSLQYVVLSYGDSG
                      SKVEKTNQIKKFN"
@@ -291,7 +291,7 @@ FEATURES             Location/Qualifiers
                      /inference="protein motif:TIGRFAMs:TIGR01766"
                      /codon_start=1
                      /transl_table=11
-                     /product="transposase, IS605 OrfB family"
+                     /product="transposase, IS605 OrfB family2"
                      /translation="MLKAYEYRIYPNSEQRLYLAKTFGCTRFIYNKMLADRIRLYEEN
                      KDLGIKKVKYPTPAQYKKEFPWLKEVDSLALANAQLNLHKAYKNFFRDKSIGFPKFKS
                      KKSNYHSYTTNNQKGTVCIENGYIKIPKLKSMIKIKLHRQFNGLIKSCTVSKTPSNKY

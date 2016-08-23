@@ -1,5 +1,5 @@
 LOCUS       1,CJ5,None,None,None,None,None,None,N>23890 bp   DNA linear
-08-AUG-2016
+22-AUG-2016
 DEFINITION  Genus species strain strain.
 ACCESSION   
 VERSION
@@ -39,7 +39,7 @@ FEATURES             Location/Qualifiers
                      /inference="ab initio prediction:Prodigal:2.6"
                      /codon_start=1
                      /transl_table=11
-                     /product="hypothetical protein1"
+                     /product="hypothetical protein"
                      /translation="MKQTFPFNFDDALLNTGGSIHLEKVNQNCSPNYQYFKIKFIEGY
                      LHIKNKSGDILEKYDLKDLISLIALKKDYLKLSPLNNKKPKEFTNIKNKHLENRFNLY
                      VINEDINGKITKNGILEEIILNRLLLSIFLENEENLLQIA"
@@ -60,7 +60,7 @@ FEATURES             Location/Qualifiers
                      /inference="protein motif:Pfam:PF06597.5"
                      /codon_start=1
                      /transl_table=11
-                     /product="Clostridium P-47 protein"
+                     /product="Clostridium P-47 protein2"
                      /translation="MNTYGWDIVYGCSKRVVNKHLKEYITKNNIQFLYSNIDKKQEIK
                      MVFDNWEIINGGSSNFLRIKTPIKEGYFKVRNTTVDLSGINPVLEIKLDFFNDISNPN
                      IKELKFNFGSESNDDIKIIVSDLNGNLQEEDEFYFNKLLINAFIQNEKQISYIFASLN

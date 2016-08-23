@@ -1,12 +1,6 @@
 
-========================[ Jul 11, 2016 12:36 PM ]========================
+========================[ Aug 23, 2016  7:17 AM ]========================
 Version 2.2.26 [Sep-21-2011]
-Started database file "16s_contigs"
-Formatted 72 sequences in volume 0
-SUCCESS: formatted database 16s_contigs
-
-========================[ Jul 13, 2016  7:59 AM ]========================
-Version 2.2.26 [Sep-21-2011]
-Started database file "16s_contigs.fasta"
-Formatted 72 sequences in volume 0
-SUCCESS: formatted database 16s_contigs.fasta
+Started database file "/home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/16s_contigs.fasta"
+Formatted 39 sequences in volume 0
+SUCCESS: formatted database /home/wolf/Desktop/OWEN/BLISTR/fasta_files/databases/16S_db/16s_contigs.fasta

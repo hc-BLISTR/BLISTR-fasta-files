@@ -1,16 +1,16 @@
 All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
 
 Assembly                   temp   
-# contigs (>= 0 bp)        71     
-# contigs (>= 1000 bp)     67     
-Total length (>= 0 bp)     3959495
-Total length (>= 1000 bp)  3956629
-# contigs                  71     
-Largest contig             457987 
-Total length               3959495
-GC (%)                     27.93  
-N50                        142985 
-N75                        69810  
-L50                        8      
-L75                        18     
+# contigs (>= 0 bp)        37     
+# contigs (>= 1000 bp)     19     
+Total length (>= 0 bp)     4083906
+Total length (>= 1000 bp)  4071535
+# contigs                  36     
+Largest contig             2040448
+Total length               4083414
+GC (%)                     27.92  
+N50                        946263 
+N75                        261181 
+L50                        2      
+L75                        3      
 # N's per 100 kbp          0.00   
