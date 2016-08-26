@@ -1,0 +1,29 @@
+[12:02:48] Command: --outdir /home/wolf/Desktop/OWEN/BLISTR/fasta_files/PROKKA/tox/temp --prefix temp.toxin --cpus 5 --quiet --force /home/wolf/Desktop/OWEN/BLISTR/fasta_files/BLAST_outputs/Toxin_out/gene_extended/temp.blast.fasta
+[12:02:48] Extending PATH: /home/wolf/Desktop/BioInfo/PROKKA/prokka-1.7/bin/../binaries/linux
+[12:02:48] Looking for 'aragorn' - found /usr/local/bin/aragorn
+[12:02:48] Determined aragorn version is 1.2
+[12:02:48] Looking for 'barrnap' - found /home/wolf/Desktop/BioInfo/PROKKA/barrnap-0.6/bin/barrnap
+[12:02:49] Determined barrnap version is 0.6
+[12:02:49] Looking for 'blastp' - found /usr/bin/blastp
+[12:02:49] Determined blastp version is 2.2
+[12:02:49] Looking for 'cmscan' - found /usr/local/bin/cmscan
+[12:02:49] Determined cmscan version is 1.1
+[12:02:49] Looking for 'egrep' - found /bin/egrep
+[12:02:49] Looking for 'find' - found /usr/bin/find
+[12:02:49] Looking for 'grep' - found /bin/grep
+[12:02:49] Looking for 'hmmscan' - found /usr/bin/hmmscan
+[12:02:49] Determined hmmscan version is 3.1
+[12:02:49] Looking for 'less' - found /usr/bin/less
+[12:02:49] Looking for 'makeblastdb' - found /usr/bin/makeblastdb
+[12:02:49] Determined makeblastdb version is 2.2
+[12:02:49] Looking for 'parallel' - found /usr/local/bin/parallel
+[12:02:49] Determined parallel version is 20130822
+[12:02:49] Looking for 'prodigal' - found /usr/local/bin/prodigal
+[12:02:49] Determined prodigal version is 2.6
+[12:02:49] Looking for 'sed' - found /bin/sed
+[12:02:49] Looking for 'tbl2asn' - found /usr/local/bin/tbl2asn
+[12:02:49] Determined tbl2asn version is 24.9
+[12:02:49] Using genetic code table 11.
+[12:02:49] Loading and checking input file: /home/wolf/Desktop/OWEN/BLISTR/fasta_files/BLAST_outputs/Toxin_out/gene_extended/temp.blast.fasta
+[12:02:49] Skipping short (<1 bp) contig: 25,SO304E2,work
+[12:02:49] FASTA file '/home/wolf/Desktop/OWEN/BLISTR/fasta_files/BLAST_outputs/Toxin_out/gene_extended/temp.blast.fasta' contains no suitable sequence entries
